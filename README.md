@@ -1,6 +1,6 @@
 
 ## Hi there 👋
-My name is Stefan. I have been creating websites since 2009. I have been working on WordPress on a near daily basis since 2012 and have helped over 12,000 clients with their websites. I have a keen eye on what makes for a great frontend user experience. In other words, my websites convert. Let's talk.
+My name is Stefan. I have been creating websites since 2009. I have been working on WordPress on a near daily basis since 2012 and have helped over 12,000 clients with their websites. I have a keen eye on what makes for a great frontend user experience. In other words, my websites convert. [Let's talk](mailto:pejcha1994@gmail.com).
 
 
 <!--

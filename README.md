@@ -16,4 +16,44 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+<details><summary><em>My Principle</em></summary>
+  <em>🧠 Never Stop Learning! 🏁</em>
+</details>
+
+<details><summary><em>My Core Values</em></summary>
+
+  ✅ Enthusiastic and highly passionate full-stack developer.
+
+  ✅ Experience building complex and scalable PHP applications, online communities, SaaS and modern CMS from scratch.
+
+  ✅ Strong knowledge in design patterns (GRASP, Factory, Strategy, Observer, DI, MVC, ADR, ...).
+
+  ✅ Clean Code, DRY and SOLID principles are a second nature to me.
+
+  ✅ Push a lot of focus, perseverance, and knowledge to accomplish as best I can a new project from scratch.
+
+  ✅ Passion for writing secure, testable and scalable applications, following the best coding practices.
+
+  ✅ Love sharing knowledge ➕ helping others.
+
+  ✅ Learning is my core value. Developing new skills on a daily basis is essential to me.
+
+  ✅ Comfortable working with Agile methodologies such as Scrum and Kanban.
+
+</details>
+
+<details><summary><em>What I'm doing?</em></summary>
+
+  ✔️ Coding <a href="#" target="_blank" rel="noopener">exciting projects</a> 🥳
+
+  ✔️ Writing interesting posts at <a href="#">ajde</a> 📝
+
+  ✔️ Drinking coffes/teas ☕️ and eating vegan healthy food 🥕
+
+  ✔️ Listening to Audible and Podcasts 🎧 when walking 🐾
+
+  ✔️ Keeping myself up-to-date with the latest programming methodologies and concepts (thanks to amazing video courses I regularly purchase 🤗).
+
+</details>-->

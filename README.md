@@ -4,6 +4,7 @@ My name is Stefan. I have been creating websites since 2009. I have been working
 
 <details><summary><em>What I'm doing?</em></summary>
 
+  
   ✔️ Coding <a href="cpanelplugins.com" target="_blank" rel="noopener">cPanel plugins</a> 🥳
 
   ✔️ Writing guides on how to solve common cPanel and Linux problems at <a href="https://pcx3.com/">PC✗3</a> 📝

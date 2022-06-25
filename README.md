@@ -11,7 +11,7 @@ My name is Stefan. I have been creating websites since 2009. I have been working
 
   ✔️ Writing WordPress tutorials and instructions for advanced users at <a href="https://wpxss.com/">WP✗SS</a> 📝
 
-  ✔️ Keeping myself up-to-date with the latest programming methodologies and concepts (thanks to amazing video courses I regularly purchase 🤗).
+  ✔️ Keeping myself up-to-date with the latest programming methodologies and concepts.
 
 </details>
 

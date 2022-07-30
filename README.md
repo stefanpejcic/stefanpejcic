@@ -19,7 +19,7 @@ My name is Stefan. I have been creating websites since 2009. I have been working
 [WordPress Malware files](https://github.com/stefanpejcic/wordpress-malware) | [Free Photo Sites](https://github.com/stefanpejcic/freephotosites) | [Explainer images](https://github.com/stefanpejcic/Kako-stvari-funkcionisu)
 
 ### Cheatsheets:
-[.htaccess](https://stefanpejcic.github.io/.htaccess/) |  [Linux Commands](https://stefanpejcic.github.io/Linux-CheatSheet/) | [ColdFusion](https://stefanpejcic.github.io/coldfusion) | [cPanel scripts](https://github.com/stefanpejcic/cPanel) | [Python examples](https://stefanpejcic.github.io/python/)
+[.htaccess](https://stefanpejcic.github.io/.htaccess/) |  [Linux Commands](https://stefanpejcic.github.io/Linux-CheatSheet/) | [ColdFusion](https://stefanpejcic.github.io/coldfusion) | [cPanel scripts](https://pcx3.com/cheatsheets/cpanel-cheatsheet/) | [Python examples](https://stefanpejcic.github.io/python/)
 
 
 ### Cpanel Plugins:

@@ -21,11 +21,7 @@ My name is Stefan. I have been creating websites since 2009. I have been working
 - [Explainer images](https://github.com/stefanpejcic/Kako-stvari-funkcionisu)
 
 ### Cheatsheets:
-- https://stefanpejcic.github.io/.htaccess/
-- https://stefanpejcic.github.io/Linux-CheatSheet/
-- https://github.com/stefanpejcic/coldfusion
-- https://github.com/stefanpejcic/cPanel
-- https://stefanpejcic.github.io/python/
+[.htaccess](https://stefanpejcic.github.io/.htaccess/) |  [Linux Commands](https://stefanpejcic.github.io/Linux-CheatSheet/) | [ColdFusion](https://github.com/stefanpejcic/coldfusion) | [cPanel](https://github.com/stefanpejcic/cPanel) | [PY](https://stefanpejcic.github.io/python/)
 
 
 ### Cpanel Plugins:

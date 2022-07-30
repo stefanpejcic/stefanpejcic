@@ -15,6 +15,25 @@ My name is Stefan. I have been creating websites since 2009. I have been working
 
 </details>
 
+### Collections:
+- https://github.com/stefanpejcic/wordpress-malware
+- https://github.com/stefanpejcic/freephotosites
+- https://github.com/stefanpejcic/Kako-stvari-funkcionisu
+
+### Cheatsheets:
+- https://stefanpejcic.github.io/.htaccess/
+- https://stefanpejcic.github.io/Linux-CheatSheet/
+- https://github.com/stefanpejcic/cPanel
+- https://stefanpejcic.github.io/python/
+
+
+### Cpanel Plugins:
+- https://github.com/stefanpejcic/fixPermissions-cpanel-plugin
+- https://github.com/stefanpejcic/inodes-usage-summary-cPanel-plugin
+- https://github.com/stefanpejcic/lastlogin-cpanel-plugin
+- https://github.com/stefanpejcic/rbl-check-cpanel-plugin
+- https://github.com/stefanpejcic/malware-scanner-cpanel-plugin
+
 
 <!--
 **stefanpejcic/stefanpejcic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile

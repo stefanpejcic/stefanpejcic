@@ -21,6 +21,7 @@ My name is Stefan. I have been creating websites since 2009. I have been working
 ### [Cheatsheets](https://pcx3.com/cheatsheets/)
 [.htaccess](https://stefanpejcic.github.io/.htaccess/) |  [Linux Commands](https://stefanpejcic.github.io/Linux-CheatSheet/) | [ColdFusion](https://stefanpejcic.github.io/coldfusion) | [cPanel scripts](https://pcx3.com/cheatsheets/cpanel-cheatsheet/)
 
+### [WordPress Plugins](https://plugins.club/)
 
 ### [Cpanel Plugins](https://pcx3.com/cheatsheets/)
 [fixPermissions](https://github.com/stefanpejcic/fixPermissions-cpanel-plugin) | [inodes usage](https://github.com/stefanpejcic/inodes-usage-summary-cPanel-plugin) | [.lastlogin](https://github.com/stefanpejcic/lastlogin-cpanel-plugin) | [RBL Checker](https://github.com/stefanpejcic/rbl-check-cpanel-plugin) | [Malware Scanner](https://github.com/stefanpejcic/malware-scanner-cpanel-plugin)

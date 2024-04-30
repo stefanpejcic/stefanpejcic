@@ -1,7 +1,7 @@
 
 ## Hi there 👋
 My name is Stefan. I have been creating websites since 2009. I have been working on WordPress and cPanel on a near daily basis since 2012 and have helped over 12,000 clients with their websites. I have a keen eye on what makes for a great frontend user experience. In other words, my websites convert. [Let's talk](mailto:stefan@pejcic.rs).
-
+<!--
 <details><summary><em>What I'm doing?</em></summary>
 
   
@@ -27,7 +27,7 @@ My name is Stefan. I have been creating websites since 2009. I have been working
 [fixPermissions](https://github.com/stefanpejcic/fixPermissions-cpanel-plugin) | [inodes usage](https://github.com/stefanpejcic/inodes-usage-summary-cPanel-plugin) | [.lastlogin](https://github.com/stefanpejcic/lastlogin-cpanel-plugin) | [RBL Checker](https://github.com/stefanpejcic/rbl-check-cpanel-plugin) | [Malware Scanner](https://github.com/stefanpejcic/malware-scanner-cpanel-plugin)
 
 
-<!--
+
 **stefanpejcic/stefanpejcic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
 Here are some ideas to get you started:
